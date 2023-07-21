@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;500;600;700;800;900;1000&display=swap');
+
+body{
+  margin: 0;
+  font-family: Cairo;
+  display: flex;
+}
+
+@media (min-width: 640px) {
+
+}
+
+@media (min-width: 1024px) {
+ 
+}
